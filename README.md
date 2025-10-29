@@ -5,7 +5,7 @@ I'm a developer passionate about low-level who enjoys exploring the lower layers
 I'm particularly interested in C system programming and the inner workings of UNIX operating system kernels (with the ultimate goal of writing my own x86-32 toy kernel one day). <br>
 I'm also intrigued by embedded systems and cybersecurity.
 
-Outside of low-level programming, I am also drawn to the development of game engines whether 2D (SDL2/C++), and especially 3D (OpenGL/C++).
+Outside of low-level programming, I am also drawn to the development of game engines whether 2D (SDL2/C++), and especially 3D (OpenGL/C++) with the goal of creating a 3D renderer inspired by the PS1 graphics.
 
 ## My projects
 ### C projects
