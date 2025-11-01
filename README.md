@@ -3,7 +3,7 @@
 ## Low-level enthusiast
 I'm a developer passionate about low-level who enjoys exploring the lower layers of his machine to understand how it works. <br>
 I'm particularly interested in C system programming and the inner workings of UNIX operating system kernels (with the ultimate goal of writing my own x86-32 toy kernel one day). <br>
-I'm also intrigued by embedded systems and cybersecurity.
+I'm also intrigued by embedded systems, networking and cybersecurity.
 
 Outside of low-level programming, I am also drawn to the development of game engines whether 2D (SDL2/C++), and especially 3D (OpenGL/C++) with the goal of creating a 3D renderer inspired by the PS1 graphics.
 
@@ -11,7 +11,7 @@ Outside of low-level programming, I am also drawn to the development of game eng
 ### C projects
 - [CHIP-8 Emulator](https://github.com/floDKDO/CHIP-8-Emulator)
 - [Network analyzer](https://github.com/floDKDO/Analyseur-reseau)
-- [Modification of the xv6 kernel](https://github.com/floDKDO/xv6)
+- [Modification of the xv6 kernel](https://github.com/floDKDO/xv6) [*in progress*]
 - [Custom memory allocator](https://github.com/floDKDO/Allocateur-de-memoire)
 - [Shell](https://github.com/floDKDO/Shell)
 - [Mini HTTP server](https://github.com/floDKDO/Serveur_HTTP)
@@ -20,8 +20,8 @@ Outside of low-level programming, I am also drawn to the development of game eng
 
 ### C++ projects
 - [Brick breaker](https://github.com/floDKDO/Casse-brique)
-- [EaZy Visual Novel engine](https://github.com/floDKDO/EZVN)
-- [ProjectGL](https://github.com/floDKDO/ProjectGL)
+- [EaZy Visual Novel engine](https://github.com/floDKDO/EZVN) [*in progress*]
+- [ProjectGL](https://github.com/floDKDO/ProjectGL) [*in progress*]
 
 
 ## My stats
