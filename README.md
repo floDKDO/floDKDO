@@ -1,6 +1,6 @@
 # Hi 👋 My name is Florian HALM
 
-## Low-level enthusiast
+## Low-level and game engine enthusiast
 I'm a developer passionate about low-level who enjoys exploring the lower layers of his machine to understand how it works. <br>
 I'm particularly interested in C system programming and the inner workings of UNIX operating system kernels (with the ultimate goal of writing my own x86-32 toy kernel one day). <br>
 I'm also intrigued by embedded systems, networking and cybersecurity.
