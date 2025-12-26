@@ -7,6 +7,8 @@ I'm also intrigued by embedded systems, networking and cybersecurity.
 
 Outside of low-level programming, I am also drawn to the development of game engines whether 2D (SDL2/C++), and especially 3D (OpenGL/C++) with the goal of creating a 3D renderer inspired by the PS1 graphics.
 
+I am currently building a visual novel game engine ([EaZy Visual Novel engine](https://github.com/floDKDO/EZVN)) that aims to be more intuitive and efficient than the most widely used visual novel engine, that is Ren'Py.
+
 ## My projects
 ### C projects
 - [CHIP-8 Emulator](https://github.com/floDKDO/CHIP-8-Emulator)
